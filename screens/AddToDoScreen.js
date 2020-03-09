@@ -5,7 +5,6 @@ const AddToDoScreen = ({navigation}) => {
   return (
     <View>
       <Text>AddToDoScreen!!</Text>
-      <Button title="pop to top" onPress={() => {}} />
     </View>
   );
 };

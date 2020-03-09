@@ -10,7 +10,7 @@ import BottomBar from './ToDoNavigator';
 const RootNavigator = props => {
   // * * * * * * * * * * change below to true to see other part of app * * * * * * * * * * * * * *
 
-  if (false) {
+  if (true) {
     return <BottomBar />;
   }
   return <LoginNavigator />;
